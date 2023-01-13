@@ -1,2 +1,2 @@
-# money-aend
+# money-send
 Send money 
